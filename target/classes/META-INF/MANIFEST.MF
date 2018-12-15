@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: API Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: EGarciaSEC
+Implementation-Vendor-Id: com.goat
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Main-Class: com.goat.Application
+
